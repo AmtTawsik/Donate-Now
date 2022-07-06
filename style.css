@@ -7,7 +7,7 @@ body{
 }
 .section-1{
     background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) ,url(images/donation9.jpg);
-    height: 500px;
+    height: 700px;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -33,6 +33,7 @@ body{
 
 .section-2{
     text-align: center;
+    height: 700px;
 }
 .amounts{
     display: flex;
@@ -45,7 +46,7 @@ body{
     border-radius: 15px;
 }
 
-.silected-amount{
+#silected-amount{
     border: 3px solid red;
     background-color: aqua;
     
@@ -92,6 +93,7 @@ body{
 .section-3{
     text-align: center;
     margin-top: 150px;
+    height: 700px;
 }
 
 .header-3{
@@ -107,6 +109,7 @@ body{
    background-color: #857373;
    padding: 20px;
    border-radius: 20px;
+   height: 700px;
 }
 .section-4 h1{
     font-size: 70px;
@@ -132,6 +135,8 @@ td, th {
 
 .section-5{
     text-align: center;
+    height: 700px;
+    padding: 50px;
 }
 
 .section-5 h1{
