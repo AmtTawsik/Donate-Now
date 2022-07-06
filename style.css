@@ -5,7 +5,7 @@ body{
     
     
 }
-.section-1{
+#section-1{
     background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) ,url(images/donation9.jpg);
     height: 700px;
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body{
     color: rgb(255, 255, 255);
     font-size: 50px;
 }
-.section-1 p{
+#section-1 p{
     color: white;
     font-size: 20px;
 }
@@ -31,7 +31,7 @@ body{
     font-size: 24px;
 }
 
-.section-2{
+#section-2{
     text-align: center;
     height: 700px;
 }
@@ -51,7 +51,7 @@ body{
     background-color: aqua;
     
 }
-.section-2 input{
+#section-2 input{
     border-top-style: hidden;
     border-right-style: hidden;
     border-left-style: hidden;
@@ -60,7 +60,7 @@ body{
     text-align: center;
 }
 
-.section-2 .batton-2{
+#section-2 .batton-2{
     border: 1px solid red;
     padding: 15px 30px;
     background-image: linear-gradient(tomato,tomato);
@@ -73,7 +73,7 @@ body{
 .header-2{
     font-size: 50px;
 }
-.section-2 p{
+#section-2 p{
     color: rgb(129, 121, 121);
 }
 
@@ -90,7 +90,7 @@ body{
     border-radius: 40px;
 }
 
-.section-3{
+#section-3{
     text-align: center;
     margin-top: 150px;
     height: 700px;
@@ -100,22 +100,22 @@ body{
     font-size: 50px;
 }
 
-.section-3 p{
+#section-3 p{
     color: rgb(130, 152, 144);
 }
 
-.section-4{
+#section-4{
     text-align: center;
    background-color: #857373;
    padding: 20px;
    border-radius: 20px;
    height: 700px;
 }
-.section-4 h1{
+#section-4 h1{
     font-size: 70px;
 }
 
-.section-4 p{
+#section-4 p{
     font-size: 20px;
 }
 
@@ -133,16 +133,16 @@ td, th {
 }
 
 
-.section-5{
+#section-5{
     text-align: center;
     height: 700px;
     padding: 50px;
 }
 
-.section-5 h1{
+#section-5 h1{
     font-size: 50px;
 }
-.section-5 p{
+#section-5 p{
     color: rgb(130, 152, 144);
 }
 
