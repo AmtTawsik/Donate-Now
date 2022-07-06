@@ -1,0 +1,189 @@
+body{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    width: 100%;
+    
+    
+}
+.section-1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) ,url(images/donation9.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 10px;
+}
+.header-1{   
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.section-1 p{
+    color: white;
+    font-size: 20px;
+}
+.batton-1{
+    border: 1px solid red;
+    padding: 15px 30px;
+    background-image: linear-gradient(tomato,tomato);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+
+.section-2{
+    text-align: center;
+}
+.amounts{
+    display: flex;
+    margin: 50px 450px;
+}
+.amounts p{
+    padding: 15px 28px;
+    font-size: 22px;
+    margin: 0px 4px;
+    border-radius: 15px;
+}
+
+.silected-amount{
+    border: 3px solid red;
+    background-color: aqua;
+    
+}
+.section-2 input{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    font-size: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.section-2 .batton-2{
+    border: 1px solid red;
+    padding: 15px 30px;
+    background-image: linear-gradient(tomato,tomato);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+
+.header-2{
+    font-size: 50px;
+}
+.section-2 p{
+    color: rgb(129, 121, 121);
+}
+
+.donation-purpas{
+    display: flex;
+}
+.div-1{
+    border: 1px solid royalblue;
+    text-align: center;
+    width: 30%;
+    margin: 50px;
+    padding-top: 50px;
+    height: 300px;
+    border-radius: 40px;
+}
+
+.section-3{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.header-3{
+    font-size: 50px;
+}
+
+.section-3 p{
+    color: rgb(130, 152, 144);
+}
+
+.section-4{
+    text-align: center;
+   background-color: #857373;
+   padding: 20px;
+   border-radius: 20px;
+}
+.section-4 h1{
+    font-size: 70px;
+}
+
+.section-4 p{
+    font-size: 20px;
+}
+
+.table-1{
+  border-collapse: collapse;
+  width: 100%;
+  align-content: center;
+  margin-left: 35%; 
+  margin-right: auto;
+}
+td, th {
+    border: 1px solid #970808;
+    text-align: left;
+    padding: 8px;
+}
+
+
+.section-5{
+    text-align: center;
+}
+
+.section-5 h1{
+    font-size: 50px;
+}
+.section-5 p{
+    color: rgb(130, 152, 144);
+}
+
+
+.Subscribe input{
+    margin-top: 70px;
+    height: 20px;
+    padding-top: 5px;
+    padding-bottom: -1px;
+    padding-left: 30px;
+}
+
+.Subscribe{
+    padding: 10px 10px;
+    background-color: rgb(198, 150, 141);
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    height: 150px;
+    width: 700px;
+    margin-left: 27%;
+    margin-bottom: 150px;
+}
+
+.Subscribe a{
+    background-color: tomato;
+    text-decoration: none;
+    padding-bottom: 3.5px;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 2px;
+    color: white;
+}
+
+footer{
+    background-color: black;
+   text-align: center;
+   padding: 5px;
+}
+footer h4{
+    color: orangered;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer p{
+    color: white;
+}
+
